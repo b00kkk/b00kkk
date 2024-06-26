@@ -21,4 +21,6 @@ Technologies and Tools:
 
 ![MySQL](https://camo.githubusercontent.com/f2578b031d79ff946a26da39e032288dbb2ba02bf02d49f3f7b19e42892bbac3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qnrua0511)](https://solved.ac/qnrua0511)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnrua0511&show_icons=true&theme=radical)
