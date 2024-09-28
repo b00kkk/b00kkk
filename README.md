@@ -20,7 +20,7 @@
 <div align=center>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qnrua0511&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b00kkk&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qnrua0511)](https://solved.ac/qnrua0511)
