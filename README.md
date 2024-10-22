@@ -19,6 +19,7 @@
 
 <div align=center>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b00kkk&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a>    
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=b00kkk&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
