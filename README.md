@@ -17,7 +17,7 @@
 ## 🏆 Awards
 - `2025.02` 학과 수석
 
-## 🪪 Certifications
+## 🪪 Certificates
 - `2022.01` 컴퓨터 활용능력 1급
 - `2023.03` ADSP (데이터 분석 준전문가)
 - `2023.10` SQLD (SQL 개발자)
