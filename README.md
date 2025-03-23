@@ -6,8 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb00kkk%2Fhit-counter&count_bg=%230358D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🙃 About Me
-- 데이터 분석 직무를 희망하는 김부겸입니다.
-- 가설을 세우고, 검증하며 문제를 해결하는 과정에 흥미가 있습니다.
+- 데이터를 분석하고 트렌드를 파악하는 김부겸입니다.
 - mail : qnrua0511@naver.com
 
 ## 🧑‍🎓 Educations
