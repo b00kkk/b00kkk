@@ -3,10 +3,8 @@
   <!---<h3 align="center">A passionate web backend developer from Republic of Korea.</h3>--->
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb00kkk%2Fhit-counter&count_bg=%230358D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 🙃 About Me
-- 데이터를 분석하고 트렌드를 파악하는 김부겸입니다.
+- 데이터로 과거를 이해하고, 모델링을 통해 미래를 그리는 김부겸 입니다.
 - mail : qnrua0511@naver.com
 
 ## 🧑‍🎓 Educations
@@ -21,7 +19,7 @@
 - `2024.06` 정보처리기사
 - `2023.10` SQLD (SQL 개발자)
 - `2023.03` ADSP (데이터 분석 준전문가)
-- `2022.01` 컴퓨터 활용능력 1급
+- `2022.01` 컴퓨터활용능력 1급
 
 ## 🧑‍💻Coding
 
