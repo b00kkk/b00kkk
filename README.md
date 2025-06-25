@@ -7,7 +7,8 @@
 - 데이터로 과거를 이해하고, 모델링을 통해 미래를 그리는 김부겸 입니다.
 - mail : qnrua0511@naver.com
 
-## 🧑‍🎓 Educations
+## 🧑‍🎓 Degree
+### 학사(Bachelor)
 - 통계데이터과학전공(Statistical Data Science)
 - 소프트웨어전공(Software)
   
