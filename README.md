@@ -8,7 +8,8 @@
 - mail : qnrua0511@naver.com
 
 ## 🧑‍🎓 Degree
-### 학사(Bachelor)
+### 학사(Bachelor) 
+`2019.03 ~ 2025.02`
 - 통계데이터과학전공(Statistical Data Science)
 - 소프트웨어전공(Software)
   
