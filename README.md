@@ -23,6 +23,9 @@
 - `2023.03` ADsP (데이터 분석 준전문가)
 - `2022.01` 컴퓨터활용능력 1급
 
+## 🏫 Education
+- `2025.07 ~ 2025.08` LGAimers
+
 ## 🧑‍💻Coding
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnrua0511)](https://solved.ac/qnrua0511/)  
