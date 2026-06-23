@@ -4,7 +4,6 @@
 </p>
 
 ## 🙃 About Me
-- 데이터로 과거를 이해하고, 모델링을 통해 미래를 그리는 김부겸 입니다.
 - mail : qnrua0511@naver.com
 
 ## 🧑‍🎓 Degree
